@@ -1,0 +1,43 @@
+A.Gaming.System.Using.Direct.X.
+Buffer.The.Z-Buffer.Like.Programmable.By.Math;-TLS-Handshake.Accepted.As.Programmable.By.Math.1+2+3+4+5+6+7+8+9.;-0/3=3.V-Buffer.Influenced.Byz-Buffer;-Influenzed.By.T-Buffer.Coalloberatable.By."CUDA"-Cores.
+
+!! ** ! * Cuda-Cores.By.Three. ;-Devided.By.Four; -3/4=0,75.
+
+0,75Hz;-Updatable.Not.Refreshrate.Of. !!! ** !! * (/Buffer-system);-Update;-System.Per.Ram.Memory.Per.Clock.Sync.With.Graphics.Card.Use.3d+2d+1d=4d.Calculating.For.Calculating.Distant.OBjects.By.Rendering.This;-Binelear.Filtering.Trinelear.Filtering.Anisotropic.Filtering.And.4D.Dimentional.Spacing.
+
+Use.4D.Dimentional.Spacing.For.Rendering.TheDWM.Which.Sould.Be.Replaced.By.Direct.X.;ARG;ARG;ARG; #IF.LEGAL.;-
+[Version]
+Signature = "$Windows NT$"
+AdvancedINF = 2.0
+Provider = %MSFT%
+Class = %ExceptionClassDesc%
+ClassGUID = {F5776D81-AE53-4935-8E84-B0B283D8BCEF}
+CatalogFile = d3dx9_25_x64.cat
+ComponentId = {47B874D4-BE00-45E9-A650-A810B387E54A}
+DriverVer = 03-18-2005, 5.3.1.0904
+
+[SourceDisksNames]
+99 = %DiskName%,"Apr2005_d3dx9_25_x64.cab",0,,-1
+
+[SourceDisksFiles]
+d3dx9_25.dll = 99
+
+[DestinationDirs]
+DefaultDestDir = 11
+
+[DefaultInstall]
+CopyFiles = DirectX_System
+
+[DirectX_System]
+d3dx9_25.dll
+
+[Strings]
+MSFT                 = "Microsoft"
+ExceptionClassDesc   = "DirectX 9.0 Apr2005"
+DiskName             = "DirectX 9.0 Apr2005 cab"
+
+Use.Stencil.Papers.For.Fading.Menu's.V1V2V3V4AND;ARG;ARG;ARG;<tout>V5.Use.A.Shadow.From.The.PAs.Frame-Buffer.For.REndering.The.PResend. !! * "4D4".
+
+Use.Brusch.Effects.On.Fading.Windows.From;-C++Programmeable.By.Math,-Tls-Handshake.Accepted.1.2.3.4.5.1.2.3.4.1.2.3.1.2.1;-AFractal.Number.
+
+Copyright.Jesper.Hessel.
